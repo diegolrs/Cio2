@@ -39,5 +39,5 @@ Serão exibidas em displays de sete segmentos a temperatura e a umidade do ar. O
 ````javascript
     var init = "Olá, mundo!";
     alert(init);
-    ````
+    ```
 
