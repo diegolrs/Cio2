@@ -25,7 +25,20 @@ Já a exibição dos valores de temperatura e umidade, lidos a partir do sensor 
 
 ## Descrição do projeto
 
-Serão exibidas em displays de sete segmentos a temperatura e a umidade do ar. O momento em que a água será liberadapara essas plantas será feito a partir do monitoramento de um sensor de umidade do solo caseiro. E ainda, os sistemas serãosimulados e representados com o auxílio de uma maquete.
+Para a execução do projeto foi utilizado como materiais:
+
+* 80 Jumpers (estimativa)
+* 5 Protoboards
+* 9 Displays de sete segmentos
+* 15 Resistores
+* 1 Válvula solenoide 
+* 1 Pedaço de cano
+* 2 Adaptadores para canos
+* 2 Arduinos Mega
+* 1 Capacitor de 47µF
+* 1 CI 4013 (Flip Flop  tipo D)
+* 1 CI 555
+
 
 
 ## Execução do projeto, testes e resultados
