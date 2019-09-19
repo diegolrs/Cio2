@@ -39,9 +39,18 @@ Para a execução do projeto foi utilizado como materiais:
 * 1 CI 4013 (Flip Flop  tipo D)
 * 1 CI 555
 
+Serão exibidas em displays de sete segmentos a temperatura e a umidade do ar. O momento em que a água será liberada para essas plantas ocorrerar a partir do monitoramento de um sensor de umidade do solo caseiro.  E ainda, os sistemas serão simulados e representados com o auxílio de uma maquete.
 
 
 ## Execução do projeto, testes e resultados
+
+Primeiramente foi feito a leitura do sensor de umidade e temperatura DHT11, a partir dessa leitura, com o auxílio  da placa do Arduino e seu ambiente de desenvolvimento, foi convertido cada algarismo dessas variáveis em números binários, que com o auxílio do CI 4511, se fez possível exibir estas em displays de sete segmentos.
+
+Posteriormente foi feito a montagem do higrômetro com o transistor do tipo PNP BC 327,  um led , um resistor de 1,8kΩ e outro resistor de 470Ω. Seu funcionamento se dá a partir da capacidade de condução de corrente da água que caso houvesse umidade, haveria condução de corrente de um fio para o outro, e caso não houvesse corrente, não haveria, isto causado pela resistência presente na terra, que seca, não permite a passagem de corrente.
+	
+O controle da saída do higrômetro é efetuado pelo Flip Flop tipo D, na qual converte os valores analógos em boleanos. 
+Em seguida foi feito a montagem do clock com o CI 555, um capacitor de 47µF e dois resistores de 500kΩ.
+
 
 ## Relógio
 
@@ -697,7 +706,9 @@ void loop(){
 }
 
 ``` 
+# Conclusão
 
+Concluí-se com este projeto que ao desviar a água dos ar-condicionados por meio do CiO², se reutiliza os litros de água desperdiciada, tornando-se uma solução solúvel a todas as intitituições de ensino no qual desperdiçam vários litros de água diariamente e melhorando em si o meio ambiente.
 
 # Referências
  * MEIRA, Marcos Cavalcante; NETO, José Diniz; LIMA, Cláudio Galeno Queiroga Oliveira; JÚNIOR, Walmeran José Trindade;DIAS, José Artur Alves; BARBACENA, Ilton Luiz. Estudo e desenvolvimento de um circuito de um relógio digital utilizandofundamentalmente conhecimentos em circuitos lógicos. Circuitos lógicos, portas lógicas, relógio digital, Instituto Federalda Paraiba, 2012. Disponível em:http://propi.ifto.edu.br/ocs/index.php/connepi/vii/paper/viewFile/1076/2509. Acesso em: 9 ago. 2019.
