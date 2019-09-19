@@ -54,6 +54,9 @@ Em seguida foi feito a montagem do clock com o CI 555, um capacitor de 47µF e d
 
 ## Relógio
 
+### Circuito do relógio
+![](https://github.com/dlrds/Cio2/blob/master/Imagens/Circuito.jpeg)
+
 ### Código do relógio
 ```c
     #include "Wire.h"
@@ -378,9 +381,6 @@ void loop() {
   delay(1000); // Exibe a cada segundo
 }
 ``` 
-
-### Circuito do relógio
-![](https://github.com/dlrds/Cio2/blob/master/Imagens/Circuito.jpeg)
 
 
 ### Circuito sensor de umidade
