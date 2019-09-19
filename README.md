@@ -45,4 +45,9 @@ Serão exibidas em displays de sete segmentos a temperatura e a umidade do ar. O
 ```c
     #include <stdio.h>
 ``` 
-# AA 
+# Referências
+ * MEIRA, Marcos Cavalcante; NETO, José Diniz; LIMA, Cláudio Galeno Queiroga Oliveira; JÚNIOR, Walmeran José Trindade;DIAS, José Artur Alves; BARBACENA, Ilton Luiz. Estudo e desenvolvimento de um circuito de um relógio digital utilizandofundamentalmente conhecimentos em circuitos lógicos. Circuitos lógicos, portas lógicas, relógio digital, Instituto Federalda Paraiba, 2012. Disponível em:http://propi.ifto.edu.br/ocs/index.php/connepi/vii/paper/viewFile/1076/2509. Acesso em: 9 ago. 2019.
+ 
+ * SANTOS, Jean Carlos Fabiano dos. Sistema Inteligente de Automatização de Bombas de Irrigação por Temperatura eUmidade, Centro de Tecnologia e Urbanismo Departamento de Engenharia Elétrica, 17 nov. 2014. Disponível em:http://www.uel.br/ctu/deel/TCC/TCC2014-JeanCarlosFabianoSantos.pdf. Acesso em: 10 ago. 2019.
+ 
+ * CAPUANO, Francisco Gabriel; IDOETA, Ivan Valeiji. Estudo e desenvolvimento de um circuito de um relógio digital utilizandofundamentalmente conhecimentos em circuitos lógicos. In: CAPUANO, Francisco Gabriel; IDOETA, Ivan Valeiji. ElementosDe Eletrônica Digital. 41. ed. São Paulo: érica, 2012. cap. Circuitos Combinacionais, p. 175-248. ISBN 978-85-7194-019-2.
