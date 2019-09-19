@@ -36,8 +36,13 @@ Serão exibidas em displays de sete segmentos a temperatura e a umidade do ar. O
 ## Circuito 2
 ![](https://github.com/dlrds/Cio2/blob/master/Imagens/Circuito2.jpeg)
 
-```javascript
-    var init = "Olá, mundo!";
-    alert(init);    
+# Código do relógio
+```c
+    #include <stdio.h>
+``` 
+
+# Código do DHT11
+```c
+    #include <stdio.h>
 ``` 
 # AA 
