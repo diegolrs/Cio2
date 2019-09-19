@@ -56,3 +56,5 @@ Serão exibidas em displays de sete segmentos a temperatura e a umidade do ar. O
  * SANTOS, Jean Carlos Fabiano dos. Sistema Inteligente de Automatização de Bombas de Irrigação por Temperatura eUmidade, Centro de Tecnologia e Urbanismo Departamento de Engenharia Elétrica, 17 nov. 2014. Disponível em:http://www.uel.br/ctu/deel/TCC/TCC2014-JeanCarlosFabianoSantos.pdf. Acesso em: 10 ago. 2019.
  
  * CAPUANO, Francisco Gabriel; IDOETA, Ivan Valeiji. Estudo e desenvolvimento de um circuito de um relógio digital utilizandofundamentalmente conhecimentos em circuitos lógicos. In: CAPUANO, Francisco Gabriel; IDOETA, Ivan Valeiji. ElementosDe Eletrônica Digital. 41. ed. São Paulo: érica, 2012. cap. Circuitos Combinacionais, p. 175-248. ISBN 978-85-7194-019-2.
+ 
+ * SENSOR de Umidade Super Fácil. Produção: TDC PROJETOS. [S. l.: s. n.], 2015. Disponível em: https://www.clubedohardware.com.br/forums/topic/1263932-sensor-de-umidade-caseiro/. Acesso em: 14 set. 2019.
