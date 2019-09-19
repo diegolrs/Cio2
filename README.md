@@ -32,7 +32,7 @@ Serão exibidas em displays de sete segmentos a temperatura e a umidade do ar. O
 
 ## Relógio
 
-# Código do relógio
+### Código do relógio
 ```c
     #include <stdio.h>
 ``` 
@@ -41,12 +41,12 @@ Serão exibidas em displays de sete segmentos a temperatura e a umidade do ar. O
 ![](https://github.com/dlrds/Cio2/blob/master/Imagens/Circuito.jpeg)
 
 
-## Circuito 2
+### Circuito 2
 ![](https://github.com/dlrds/Cio2/blob/master/Imagens/Circuito2.jpeg)
 
 
 
-# Código do DHT11
+### Código do DHT11
 ```c
     #include <stdio.h>
 ``` 
