@@ -388,7 +388,7 @@ void loop() {
 
 
 ### Circuito DHT11
-![](https://github.com/dlrds/Cio2/blob/master/Imagens/Circuito2.jpeg)
+![](https://github.com/dlrds/Cio2/blob/master/Imagens/dht.jpg)
 
 
 ### Código do DHT11
