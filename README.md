@@ -36,8 +36,8 @@ Serão exibidas em displays de sete segmentos a temperatura e a umidade do ar. O
 ## Circuito 2
 ![](https://github.com/dlrds/Cio2/blob/master/Imagens/Circuito2.jpeg)
 
-```javascript
+````javascript
     var init = "Olá, mundo!";
     alert(init);
-    ```
-## Referências
+    ````
+
