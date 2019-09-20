@@ -1,6 +1,6 @@
 # CiO2
 ![](https://github.com/dlrds/Cio2/blob/master/Imagens/logo%20(2).png)
-Projeto final para a disciplina de Circuitos Lógicos
+Projeto final para a disciplina de Circuitos Lógicos ministrada pelo Professor Eudisley Gomes dos Anjos do Centro de Informatica da Universidade Federal da Paraıba
 
 
 ## Introdução
