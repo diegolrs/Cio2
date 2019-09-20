@@ -708,7 +708,7 @@ void loop(){
 ``` 
 # Conclusão
 
-Concluí-se com este projeto que ao desviar a água dos ar-condicionados por meio do CiO², se reutiliza os litros de água desperdiciada, tornando-se uma solução solúvel a todas as intitituições de ensino no qual desperdiçam vários litros de água diariamente e melhorando em si o meio ambiente.
+Conclui-se com este projeto que ao desviar a água dos ar-condicionados por meio do CiO², se reutiliza os litros de água desperdiciada, tornando-se uma solução solúvel a todas as intitituições de ensino no qual desperdiçam vários litros de água diariamente e melhorando em si o meio ambiente.
 
 # Referências
  * MEIRA, Marcos Cavalcante; NETO, José Diniz; LIMA, Cláudio Galeno Queiroga Oliveira; JÚNIOR, Walmeran José Trindade;DIAS, José Artur Alves; BARBACENA, Ilton Luiz. Estudo e desenvolvimento de um circuito de um relógio digital utilizandofundamentalmente conhecimentos em circuitos lógicos. Circuitos lógicos, portas lógicas, relógio digital, Instituto Federalda Paraiba, 2012. Disponível em:http://propi.ifto.edu.br/ocs/index.php/connepi/vii/paper/viewFile/1076/2509. Acesso em: 9 ago. 2019.
