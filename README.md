@@ -719,11 +719,13 @@ Conclui-se com este projeto que ao desviar a água dos ar-condicionados por meio
  
  * SENSOR de Umidade Super Fácil. Produção: TDC PROJETOS. [S. l.: s. n.], 2015. Disponível em: https://www.clubedohardware.com.br/forums/topic/1263932-sensor-de-umidade-caseiro/. Acesso em: 14 set. 2019.
  
- <p align="center">
+<p align="center">
   <a>Criado por</a>
-  <a href="https://github.com/diegolrs">@diegolrs</a>
-  <a href="https://github.com/yasminmedeiros00">@yasminmedeiros00</a>
-  <a href="https://github.com/RaissaVieira">@RaissaVieira</a>
-  <a href="https://github.com/MtHonorio">@MtHonorio</a>
+  <a href="https://github.com/diegolrs">Diego Reis</a>
+  <a >, </a>
+  <a href="https://github.com/yasminmedeiros00">Yasmin Medeiros</a>
+  <a >, </a>
+  <a href="https://github.com/RaissaVieira">Raissa Vieira</a>
+  <a > e </a>
+  <a href="https://github.com/MtHonorio">Matheus Honório</a>
 </p>
-
