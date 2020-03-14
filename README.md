@@ -727,6 +727,6 @@ Conclui-se com este projeto que ao desviar a água dos ar-condicionados por meio
   <a >, </a>
   <a href="https://github.com/RaissaVieira">Raissa Vieira</a>
   <a > e </a>
-  <a href="https://github.com/MtHonorio">Matheus Honório</a>
-  <a >.</a>
+  <a href="https://github.com/MtHonorio">Matheus Honório</a><a>.</a>
+  
 </p>
